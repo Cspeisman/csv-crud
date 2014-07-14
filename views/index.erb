@@ -1,0 +1,17 @@
+<a href="/new">Add New Product</a>
+<table>
+  <tr>
+    <% session[:headers].each do |header| %>
+      <th><%= header.to_s.capitalize.gsub('_', ' ') %></th>
+    <% end %>
+  </tr>
+
+  <% @rows.each do |row| %>
+    <tr>
+      <% session[:headers].each do |header| %>
+        <td><%= row[header] %></td>
+      <% end %>
+      <td><a href=<%= "/#{row[:id]}/edit" %>>Edit</td>
+    </tr>
+  <% end %>
+</table>

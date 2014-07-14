@@ -1,0 +1,103 @@
+name,company,available_from,device,protocol,notes
+SmartThings Arduino Shield,SmartThings,SmartThings Shop,Arduino Shield,ZigBee,
+SmartThings Hub,SmartThings,SmartThings Shop,Hub,ZigBee/Z-Wave,
+SmartSense Moisture,SmartThings,SmartThings Shop,Moisture/Water,Z-Wave,
+SmartSense Motion,SmartThings,SmartThings Shop,Motion,ZigBee,
+SmartSense Multi,SmartThings,SmartThings Shop,Multi,ZigBee,
+SmartSense Presence,SmartThings,SmartThings Shop,Presence,ZigBee,
+CT30 Programmable Thermostat,2Gig,Amazon,Thermostat,Z-Wave,Has U-Snap module which as long as its Z-Wave will work.
+CT100 Programmable Thermostat,2Gig,Amazon,Thermostat,Z-Wave,
+Aeon MultiSensor,Aeon Labs,SmartThings Shop,Multi,Z-Wave,
+Aeon Contact Sensor,Aeon Labs,SmartThings Shop,Open/Close,Z-Wave,May Pair as Z-Wave Device and can be manually re-typed
+Keyfob,Aeon Labs,,Button Device,Z-Wave,
+Micro Illuminator G2 Light Dimmer,Aeon Labs,Amazon,Dimmer Switch,Z-Wave,
+Micro Smart Energy Illuminator,Aeon Labs,Amazon,Energy Switch/Relay,Z-Wave,
+Micro In-Wall Appliance Switch,Aeon Labs,Amazon,Switch/Relay,Z-Wave,
+Minimote,Aeon Labs,SmartThings Shop,Button Device,Z-Wave,
+Panic Button,Aeon Labs,,Button Device,Z-Wave,
+Smart Energy Switch,Aeon Labs,Amazon,Energy Switch,Z-Wave,
+Recessed Door Sensor,Aeon Labs,SmartThings Shop,Open/Close,Z-Wave,
+Wemo In-Wall Switch,Belkin,,Switch,LAN,SmartThings Labs release
+Wemo Motion Sensor,Belkin,,Motion Sensor,LAN,SmartThings Labs release
+Wemo Switch,Belkin,,Switch,LAN,SmartThings Labs release
+Appliance Switch,CentraLite,SmartThings Shop,Energy Switch,ZigBee,
+Lamp Module,CentraLite,,Dimming Switch,ZigBee,
+BTZU100 Circle,Danalock,,Lock,Z-Wave,Custom keycodes not yet supported.
+BTZU100 Square,Danalock,,Lock,Z-Wave,Custom keycodes not yet supported.
+Regular,Dropcam,,Camera,Cloud-to-Cloud,SmartThings Labs release
+Pro,Dropcam,,Camera,Cloud-to-Cloud,SmartThings Labs release
+ecobee Smart Thermostat,Ecobee,,Thermostat,Cloud-to-Cloud,SmartThings Labs release
+ecobee Smart Si Thermostat,Ecobee,,Thermostat,Cloud-to-Cloud,SmartThings Labs release
+ECOPIRZWAVE2,Ecolink,,Motion Sensor,Z-Wave,
+ECOTILTZWAVE2,Ecolink,,Tilt Open/Close,Z-Wave,
+ECODWZWAVE2,Ecolink,,Contact Sensor,Z-Wave,
+ZW1P Plugin Dimmer Module,Enerwave,,Dimmer Switch,Z-Wave,User tested
+ZW500D In-Wall Dimmers,Enerwave,,Dimmer Switch,Z-Wave,User tested
+Everspring Contact Sensor,Everspring,Amazon,Open/Close,Z-Wave,
+Everspring Motion Sensor,Everspring,,Motion Sensor,Z-Wave,
+Everspring Water Sensor,Everspring,Amazon,Moisture/Water,Z-Wave,
+LDM-15 Plug-in Appliance Module,Evolve,,Switch,Z-Wave,
+LFM-20,Evolve,Amazon,Relay/Switch,Z-Wave,
+LOM-15,Evolve,Amazon,Switch,Z-Wave,
+LPM-15,Evolve,,Switch,Z-Wave,
+LRM-AS,Evolve,Amazon,Dimmer Switch,Z-Wave,
+LSM-15,Evolve,Amazon,Switch,Z-Wave,
+Door/Window Sensor,Fibaro,,Contact Sensor,Z-Wave,Only open/close is functional. Battery and other alerts supported by the device coming.
+Water Sensor,Fibaro,,Water Sensor,Z-Wave,Only Water alerts are functional. Battery and other alerts supported by the device coming.
+ZCOMBO,First Alert,,Smoke/CO Detector,Z-Wave,
+ZSMOKE,First Alert,,Smoke Detector,Z-Wave,
+Flood Detector,FortrezZ,FortrezZ,Moisture/Water,Z-Wave,
+MIMOlite,FortrezZ,Amazon,Switch,Z-Wave,Only Switch mechanism currently controllable. Input ability is currently in development.
+Siren Strobe Alarm,FortrezZ,Amazon,Siren,Z-Wave,
+Water Valve Shutoff ,FortrezZ,FortrezZ,Valve,Z-Wave,
+In-Wall Switch,GE / Jasco,SmartThings Shop,Switch,Z-Wave,
+In-Wall Dimmer,GE / Jasco,SmartThings Shop,Dimmer Switch,Z-Wave,
+In-Wall Outlet,GE / Jasco,SmartThings Shop,Switch,Z-Wave,
+3-Way Switch Kit,GE / Jasco,SmartThings Shop,Switch,Z-Wave,
+3-Way Dimmer Kit,GE / Jasco,SmartThings Shop,Dimmer Switch,,
+Outdoor Lighting Control,GE / Jasco,SmartThings Shop,Switch,Z-Wave,
+Plug-in Lamp Dimmer,GE / Jasco,SmartThings Shop,Dimmer Switch,Z-Wave,
+Plug-in Appliance Control,GE / Jasco,SmartThings Shop,Switch,Z-Wave,
+Thermostat YTH8320ZW1007/U,Honeywell,Amazon,Thermostat,Z-Wave,
+HA01C,Intermatic,Amazon,Switch,Z-Wave,
+HA02C,Intermatic,Amazon,Switch,Z-Wave,
+HA03C,Intermatic,Amazon,Dimmer Switch,Z-Wave,
+HA04C,Intermatic,Amazon,Switch,Z-Wave,
+HA05C,Intermatic,Amazon,Switch,Z-Wave,
+Lever Door Lock 912TNL,Kwikset,SmartThings Shop,Door Lock,Z-Wave,Custom keycodes not yet supported.
+SmartKey Deadbolt 909,Kwikset,Amazon,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Contemporary Deadbolt  910CNT,Kwikset,Amazon,Door Lock,Z-Wave,Custom keycodes not yet supported.
+SmartCode 914 Series Z-Wave Deadbolt ,Kwikset,,Door Lock,Z-Wave,Custom keycodes not yet supported.
+1000W Incandescent Dimmer VRI10-1LZ,Leviton,,Dimmer,Z-Wave,
+15A Outlet VRR15-1LZ,Leviton,,Switch,Z-Wave,
+15A Switch VRS15-1LZ,Leviton,,Switch,Z-Wave,
+3-Speed Fan Controller,Leviton,,Dimmer,Z-Wave,
+5A Incandescant Switch VRS05-1LZ,Leviton,,Switch,Z-Wave,
+600W Incandescent Dimmer,Leviton,,Dimmer,Z-Wave,
+Hue Bloom,Philips,,Color Control,LAN,SmartThings Labs release
+Hue Light Bulb,Philips,,Color Control,LAN,SmartThings Labs release
+Hue Light Strinp,Philips,,Color Control,LAN,SmartThings Labs release
+PivotPower Genuis,Quirky,,Multiple Switch,Cloud-to-Cloud,SmartThings Labs release
+TZ45 Thermostat,RCS,Amazon,Thermostat,Z-Wave,
+ZDS-100 Plug-in Dimmer,Remotec,Amazon,Switch/Relay,Z-Wave,
+ZFM-80 - 15 Amp Dry Contact Module,Remotec,ZWaveProducts.com,Switch,Z-Wave,
+Lever Door Lock FE599NX,Schlage / Nexia,SmartThings Shop,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Touchscreen Door Lock Camelot BE469NX,Schlage / Nexia,SmartThings Shop,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Deadbolt BE369NX,Schlage / Nexia,Amazon,Door Lock,Z-Wave,Can ONLY be unlocked remotely.  Must be manually locked. Custom keycodes not yet supported.
+Touchscreen Door Lock Century BE469NX,Schlage / Nexia,SmartThings Shop,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Open / Closed Sensor,Schlage / Nexia,Amazon,Open/Close,Z-Wave,
+Motion Sensor,Schlage / Nexia,Amazon,Motion,Z-Wave,
+Light Module,Schlage / Nexia,Amazon,Switch,Z-Wave,
+Play:1,Sonos,Amazon,Speaker,LAN,SmartThings Labs release
+Play:3,Sonos,Amazon,Speaker,LAN,SmartThings Labs release
+Play:5,Sonos,Amazon,Speaker,LAN,SmartThings Labs release
+Play:Bar,Sonos,Amazon,Speaker,LAN,SmartThings Labs release
+iQ ZigBee bulbs,Sylvania,,Bulb,ZigBee,Requires a Firmware update
+ZBLC15 - Dual-Relay On/Off Load Controller - Model #4033A,SmartenIT,Smartenit,Switch/Relay,ZigBee,Only currently able to turn both relays on/off at once. Not individually addressable. Will pair as SmartPower Outlet
+ZBMLC15 Single Relay On/Off Controller - Model #4034A,SmartenIT,Smartenit,Switch/Relay,ZigBee,Will pair as SmartPower Outlet
+ZBMLC30 Dual Load Controller - Model #4040B,SmartenIT,Smartenit,Switch/Relay,ZigBee,Only currently able to turn both relays on/off at once. Not individually addressable. Will pair as SmartPower Outlet. Energy Metering currently in development.
+ZBMPlug15 Metering Smart Plug - Model #5010Q,SmartenIT,Smartenit,Switch/Relay,ZigBee,Will pair as SmartPower Outlet. Energy Metering currently in development.
+TCP Connected Smart LED Bulbs,TCP,,Bulb,LAN,SmartThings Labs release
+Touchscreen Deadbolt YRD220-ZW,Yale,Amazon,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Touchscreen Lever YRL-220-ZW,Yale,Amazon,Door Lock,Z-Wave,Custom keycodes not yet supported.
+Touchscreen Deadbolt YRD210-ZW,Yale,Amazon,Door Lock,Z-Wave,Custom keycodes not yet supported.

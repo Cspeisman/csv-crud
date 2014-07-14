@@ -1,0 +1,9 @@
+<% session[:headers].each do |header|  %>
+  <div>
+    <label for="<%= header.to_s %>"><%= header.to_s.capitalize.gsub('_', ' ') %> </label>
+    <input type="text" name="<%= header.to_s %>" id="<%= header.to_s %>" value="<%= @row[header] if @row %>" >
+  </div>
+<% end %>
+<div>
+  <input type="submit" value="submit">
+</div>
