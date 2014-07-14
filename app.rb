@@ -9,11 +9,11 @@ get '/' do
   redirect '/index'
 end
 
-# shows all the product details
+# shows all the rows
 get '/index' do
   session[:headers] = products.headers
   @rows = []
-  # iterates over products and assigns index as 'id'
+  # iterates over row and assigns index as 'id'
   products.each_with_index do |row, index|
     row[:id] = index
     @rows << row 
@@ -22,14 +22,14 @@ get '/index' do
 end
 
 
-# view to edit a product
+# view to edit a row
 get '/:id/edit' do
   # grabs the row based on the params[:id]
   @row = products[params[:id].to_i]
   erb :edit
 end
 
-# view to add new product
+# view to add new row
 get '/new' do 
   erb :new
 end
@@ -40,7 +40,7 @@ get '/data/file.csv' do
   redirect_to '/index'
 end
 
-# updates the csv when a product has been edited
+# updates the csv when a row has been edited
 post '/:id/update' do
   @rows = products
   # finds row based on params[:id]
