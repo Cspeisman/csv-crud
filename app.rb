@@ -21,6 +21,7 @@ get '/index' do
   erb :index
 end
 
+
 # view to edit a product
 get '/:id/edit' do
   # grabs the row based on the params[:id]
@@ -31,6 +32,12 @@ end
 # view to add new product
 get '/new' do 
   erb :new
+end
+
+
+get '/data/file.csv' do
+  send_file './data/file.csv'
+  redirect_to '/index'
 end
 
 # updates the csv when a product has been edited
