@@ -6,5 +6,6 @@ This application works with any csv file.
 
 ####instructions
 ---
-1) rename csv file `file.csv` and move it to the `data` directory
-2) run `shotgun app.rb` from command line
+
+1.  rename csv file `file.csv` and move it to the `data` directory
+2.  run `shotgun app.rb` from command line
